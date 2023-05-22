@@ -1,0 +1,16 @@
+LICENCE
+README.md
+setup.cfg
+setup.py
+HITI_anon_internal/Anon.py
+HITI_anon_internal/ColNorm.py
+HITI_anon_internal/DICOMAnonymization.py
+HITI_anon_internal/MedEncrypter.py
+HITI_anon_internal/TextAnon.py
+HITI_anon_internal/TimeShift.py
+HITI_anon_internal/__init__.py
+HITI_anon_internal/constant.py
+HITI_anon_internal.egg-info/PKG-INFO
+HITI_anon_internal.egg-info/SOURCES.txt
+HITI_anon_internal.egg-info/dependency_links.txt
+HITI_anon_internal.egg-info/top_level.txt
